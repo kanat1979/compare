@@ -1,0 +1,5 @@
+C:\Users\kanat\Documents\Visual Studio 2013\Projects\WordCompare\WordCompare\bin\Debug\WordCompare.exe.config
+C:\Users\kanat\Documents\Visual Studio 2013\Projects\WordCompare\WordCompare\bin\Debug\WordCompare.exe
+C:\Users\kanat\Documents\Visual Studio 2013\Projects\WordCompare\WordCompare\bin\Debug\WordCompare.pdb
+C:\Users\kanat\Documents\Visual Studio 2013\Projects\WordCompare\WordCompare\obj\Debug\WordCompare.exe
+C:\Users\kanat\Documents\Visual Studio 2013\Projects\WordCompare\WordCompare\obj\Debug\WordCompare.pdb

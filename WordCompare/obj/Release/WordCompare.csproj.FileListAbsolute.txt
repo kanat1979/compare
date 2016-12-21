@@ -1,0 +1,5 @@
+c:\users\kanat\documents\visual studio 2013\Projects\WordCompare\WordCompare\bin\Release\WordCompare.exe.config
+c:\users\kanat\documents\visual studio 2013\Projects\WordCompare\WordCompare\bin\Release\WordCompare.exe
+c:\users\kanat\documents\visual studio 2013\Projects\WordCompare\WordCompare\bin\Release\WordCompare.pdb
+c:\users\kanat\documents\visual studio 2013\Projects\WordCompare\WordCompare\obj\Release\WordCompare.exe
+c:\users\kanat\documents\visual studio 2013\Projects\WordCompare\WordCompare\obj\Release\WordCompare.pdb
